@@ -1,9 +1,9 @@
 {
-  "id": "e81de2de-34e9-4e16-aae5-5b200ae831a0",
+  "id": "a583c7e5-3411-468c-b223-9828cf502f05",
   "enabled": true,
-  "type": "info",
+  "type": "warning",
   "title": "Next major update",
   "message": "The next update will implement support for BoomBang HTML5.\nYou can now play the new client from Infamous Software.",
-  "publishedUtc": "2026-06-18T02:52:58.283Z",
+  "publishedUtc": "2026-06-18T02:53:47.814Z",
   "expiresUtc": null
 }
