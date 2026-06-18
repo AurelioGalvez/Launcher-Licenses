@@ -1,10 +1,9 @@
 {
-  "id": "3e106da7-f20d-4e3a-8ab4-d9bf45143263",
-  "enabled": false,
+  "id": "3fdc3465-6f47-4906-bd73-82187d107bde",
+  "enabled": true,
   "type": "info",
   "title": "Prueba de notificación",
   "message": "Esto es una prueba..",
-  "publishedUtc": "2026-06-18T01:34:47.306Z",
-  "expiresUtc": null,
-  "updatedUtc": "2026-06-18T01:35:01.275Z"
+  "publishedUtc": "2026-06-18T01:42:23.465Z",
+  "expiresUtc": null
 }
