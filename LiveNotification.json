@@ -1,9 +1,9 @@
 {
-  "id": "2163b3d5-aefe-4129-b610-0393fbf62e46",
-  "enabled": false,
-  "type": "info",
-  "title": "Next major update",
-  "message": "The next update will implement support for BoomBang HTML5.\nYou can now play the new client from Infamous Software.",
-  "publishedUtc": "2026-06-18T02:55:38.322Z",
+  "id": "b746919d-7562-4e06-be08-5e4a3dcf72b8",
+  "enabled": true,
+  "type": "error",
+  "title": "Jaziel puto",
+  "message": "Me la pelas bien rico con las patas",
+  "publishedUtc": "2026-06-18T05:18:39.279Z",
   "expiresUtc": null
 }
