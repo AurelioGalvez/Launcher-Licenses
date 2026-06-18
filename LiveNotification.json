@@ -1,9 +1,9 @@
 {
-  "id": "82ec2351-1c84-41e8-89ea-fcafcdc93e26",
-  "enabled": false,
+  "id": "04b81aec-2336-4f1b-8350-f00682b098a3",
+  "enabled": true,
   "type": "warning",
   "title": "",
   "message": "Licencias de premium-free se deshabilitarán temporalmente.",
-  "publishedUtc": "2026-06-18T02:03:12.086Z",
+  "publishedUtc": "2026-06-18T02:03:20.160Z",
   "expiresUtc": null
 }
