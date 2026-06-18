@@ -1,9 +1,9 @@
 {
-  "id": "e7a54a48-24ac-4f87-84f4-29fcac130ff4",
+  "id": "780232d1-fed7-4c99-8682-f3a159786bba",
   "enabled": true,
   "type": "info",
   "title": "Prueba de notificación",
   "message": "Esto es una prueba..",
-  "publishedUtc": "2026-06-18T01:34:12.456Z",
-  "expiresUtc": "2026-06-17T18:33:00Z"
+  "publishedUtc": "2026-06-18T01:34:38.610Z",
+  "expiresUtc": "2026-06-17T18:35:00Z"
 }
