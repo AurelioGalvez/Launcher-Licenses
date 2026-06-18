@@ -1,9 +1,9 @@
 {
-  "id": "33681a05-95cf-4cd2-8a75-c58e9f15bb1a",
+  "id": "1bdf3ee1-a36c-415e-a873-8ff19ea48e57",
   "enabled": true,
-  "type": "info",
+  "type": "warning",
   "title": "Prueba Test",
-  "message": "Me la pelas bien rico con las patas",
-  "publishedUtc": "2026-06-18T06:55:03.641Z",
+  "message": "Test",
+  "publishedUtc": "2026-06-18T16:06:17.124Z",
   "expiresUtc": null
 }
