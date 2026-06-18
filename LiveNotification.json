@@ -1,0 +1,9 @@
+{
+  "id": "e7a54a48-24ac-4f87-84f4-29fcac130ff4",
+  "enabled": true,
+  "type": "info",
+  "title": "Prueba de notificación",
+  "message": "Esto es una prueba..",
+  "publishedUtc": "2026-06-18T01:34:12.456Z",
+  "expiresUtc": "2026-06-17T18:33:00Z"
+}
