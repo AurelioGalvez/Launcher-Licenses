@@ -1,9 +1,9 @@
 {
-  "id": "b0114581-04b6-4824-9914-58a22c6959fc",
-  "enabled": false,
-  "type": "warning",
-  "title": "",
-  "message": "Licencias de premium-free se deshabilitarán temporalmente.",
-  "publishedUtc": "2026-06-18T02:03:46.675Z",
+  "id": "28f599c4-81f8-49ce-aa80-787758451b7f",
+  "enabled": true,
+  "type": "info",
+  "title": "Next major update",
+  "message": "The next update will implement support for BoomBang HTML5.\nYou can now play the new client from Infamous Software.",
+  "publishedUtc": "2026-06-18T02:47:00.950Z",
   "expiresUtc": null
 }
