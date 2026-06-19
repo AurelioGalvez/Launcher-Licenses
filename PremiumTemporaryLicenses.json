@@ -1,22 +1,5 @@
 {
   "schemaVersion": 2,
   "type": "PremiumTemporaryList",
-  "entries": [
-    {
-      "schemaVersion": 2,
-      "type": "PremiumTemporary",
-      "hardwareId": "L1RTU8BG-YPDHDSXW-IHJX3AIL-ZDLOICQ5-LM0V",
-      "activationUtc": "2026-06-19T03:56:11.761Z",
-      "days": 111,
-      "identity": {
-        "schemaVersion": 2,
-        "type": "PremiumFull",
-        "productName": "SOFTWARE_INFAMOUS_PREMIUM_FULL",
-        "productId": "#2.0.0#",
-        "internalTrialKey": "Software_Infamous_LIC2_PREMIUM_FULL",
-        "name": "Software Infamous"
-      },
-      "comment": "ADMIN"
-    }
-  ]
+  "entries": []
 }
