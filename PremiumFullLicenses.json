@@ -1,20 +1,5 @@
 {
   "schemaVersion": 2,
   "type": "PremiumFullList",
-  "entries": [
-    {
-      "schemaVersion": 2,
-      "type": "PremiumFull",
-      "hardwareId": "L1RTU8BG-YPDHDSXW-IHJX3AIL-ZDLOICQ5-LM0V",
-      "identity": {
-        "schemaVersion": 2,
-        "type": "PremiumFull",
-        "productName": "Software_Infamous",
-        "productId": "#1.7.6#",
-        "internalTrialKey": "Software_Infamous_Premium",
-        "name": "Software Infamous"
-      },
-      "comment": "Signed Premium: ADMIN"
-    }
-  ]
+  "entries": []
 }
