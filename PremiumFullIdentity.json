@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "type": "PremiumFull",
-  "productName": "Software_Infamous",
-  "productId": "#1.7.6#",
-  "internalTrialKey": "Software_Infamous_Premium",
+  "productName": "SOFTWARE_INFAMOUS_PREMIUM_FULL",
+  "productId": "#2.0.0#",
+  "internalTrialKey": "Software_Infamous_LIC2_PREMIUM_FULL",
   "name": "Software Infamous"
 }
