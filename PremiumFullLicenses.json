@@ -15,6 +15,20 @@
         "name": "Software Infamous"
       },
       "comment": "JAZIEL"
+    },
+    {
+      "schemaVersion": 2,
+      "type": "PremiumFull",
+      "hardwareId": "L1RTU8BG-YPDHDSXW-IHJX3AIL-ZDLOICQ5-LM0V",
+      "identity": {
+        "schemaVersion": 2,
+        "type": "PremiumFull",
+        "productName": "SOFTWARE_INFAMOUS_PREMIUM_FULL",
+        "productId": "#1.7.7#",
+        "internalTrialKey": "Software_Infamous_LIC2_PREMIUM_FULL",
+        "name": "Software Infamous"
+      },
+      "comment": "Signed Premium: ADMIN"
     }
   ]
 }
