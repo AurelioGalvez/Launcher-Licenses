@@ -1,5 +1,20 @@
 {
   "schemaVersion": 2,
   "type": "PremiumFullList",
-  "entries": []
+  "entries": [
+    {
+      "schemaVersion": 2,
+      "type": "PremiumFull",
+      "hardwareId": "5VUTBEYX-CPDDM6W6-XT2MXBRT-63M1Q60Y-FMLC",
+      "identity": {
+        "schemaVersion": 2,
+        "type": "PremiumFull",
+        "productName": "SOFTWARE_INFAMOUS_PREMIUM_FULL",
+        "productId": "#2.0.0#",
+        "internalTrialKey": "Software_Infamous_LIC2_PREMIUM_FULL",
+        "name": "Software Infamous"
+      },
+      "comment": "JAZIEL"
+    }
+  ]
 }
