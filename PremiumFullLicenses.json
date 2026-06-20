@@ -15,20 +15,6 @@
         "name": "Software Infamous"
       },
       "comment": "JAZIEL"
-    },
-    {
-      "schemaVersion": 2,
-      "type": "PremiumFull",
-      "hardwareId": "FZ5MPGA3-N1G3LSAS-N1G3LSAS-6E5O20O9-EEH4",
-      "identity": {
-        "schemaVersion": 2,
-        "type": "PremiumFull",
-        "productName": "SOFTWARE_INFAMOUS_PREMIUM_FULL",
-        "productId": "#2.0.0#",
-        "internalTrialKey": "Software_Infamous_LIC2_PREMIUM_FULL",
-        "name": "Software Infamous"
-      },
-      "comment": "Signed Premium: Johan"
     }
   ]
 }
