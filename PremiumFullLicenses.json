@@ -19,20 +19,6 @@
     {
       "schemaVersion": 2,
       "type": "PremiumFull",
-      "hardwareId": "L1RTU8BG-YPDHDSXW-IHJX3AIL-ZDLOICQ5-LM0V",
-      "identity": {
-        "schemaVersion": 2,
-        "type": "PremiumFull",
-        "productName": "SOFTWARE_INFAMOUS_PREMIUM_FULL",
-        "productId": "#2.0.0#",
-        "internalTrialKey": "Software_Infamous_LIC2_PREMIUM_FULL",
-        "name": "Software Infamous"
-      },
-      "comment": "ADMIN"
-    },
-    {
-      "schemaVersion": 2,
-      "type": "PremiumFull",
       "hardwareId": "PVDQCNMB-8H57CMQ5-FN7FDAC4-RQJCAHGS-JNP9",
       "identity": {
         "schemaVersion": 2,
